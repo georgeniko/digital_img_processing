@@ -1,6 +1,6 @@
 # digital_img_processing
 
-This project was developed on MATLAB for course "Digital Image Processing" of Electrical & Computer Engineering (Aristotle University of Thessaloniki) for educational purposes. It is split on 3 parts. 
+This project was developed on MATLAB for course "Digital Image Processing" of Electrical & Computer Engineering (Aristotle University of Thessaloniki) for educational purposes. It is split in 3 parts. 
 Each one includes a brief description of the assignment, the .m functions, the demo scripts as well as a pdf report (in Greek).
 
 Part 1
